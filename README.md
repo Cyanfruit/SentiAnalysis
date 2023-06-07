@@ -1,6 +1,6 @@
 # SentiAnalysis
 
-psm:
+# psm:
 
 数据集：http://kin-y.github.io/miningReviewRepo/
 
@@ -18,11 +18,12 @@ dataMatch.py 根据psm后得到的id对，保存每组对应id的数据信息
 
 
 
-huawei:
+# huawei:
 
 华为代码及数据
 
-prediction：
+
+# prediction：
 
 数据集：https://zenodo.org/record/3825044#.ZDFvv3tBwdU
 
