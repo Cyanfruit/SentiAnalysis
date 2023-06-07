@@ -9,7 +9,7 @@ test.py 使用Convokit politenessStrategies获取politenessStrategies
 
 数据集：http://kin-y.github.io/miningReviewRepo/
 
-dataGet.py 获取各种指标的sql及执行
+dataGet.py 获取各种指标的sql及执行，*默认的sql可以获取各个评论当前的轮数(patchSetNum)以及PR包含的轮数(patchSetCounts)*
 
 dataHandle.py 根据设定的条件过滤文本信息
 
