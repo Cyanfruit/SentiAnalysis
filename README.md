@@ -30,3 +30,7 @@ dataMatch.py 根据psm后得到的id对，保存每组对应id的数据信息
 dataConcat.py：根据表关系提取数据
 
 aggre.py：以PR为单位聚合数据
+
+rfLogit.py smLogit.py smfLogit.py sklearnLogit.py 都是逻辑回归，实现方式不同
+
+randomforest.py 构建随机森林分类器
