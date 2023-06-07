@@ -44,3 +44,10 @@ aggre.py：以PR为单位聚合数据
 rfLogit.py smLogit.py smfLogit.py sklearnLogit.py 都是逻辑回归，实现方式不同
 
 randomforest.py 构建随机森林分类器
+
+### data:
+特征：包含SentiCR、SESSION、Senti4SD、EASTER的输出、SESSION的四种表达模型信息，Convokit提取的和文本特征有关的情绪指标
+
+加入特征：将特征和数据集提取的数据进行合并以及构建的随机森林分类器的结果
+
+其他结果：逻辑回归模型的结果
